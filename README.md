@@ -1,13 +1,13 @@
 [![C#](https://img.shields.io/badge/C_SHARP-CC2927?style=for-the-badge&logo=c-sharp&logoColor=white)](#)
 # Gary Garage
-A  _Project_ for [NSS Cohort-47](https://nashvillesoftwareschool.com/)
+A  _Project_ for [NSS Cohort-47](https://nashvillesoftwareschool.com/)  
 ## Installation
-1. git clone this repository
+1. git clone this repository  
 
 ## Usage
 1. `cd` into directory
 2. Enter `dotnet run` in root of project
-3. Test features.
+3. Test features.  
 
 
 ## Contributing
