@@ -2,13 +2,18 @@ using System;
 
 namespace Garage
 {
-    public class Tesla : Vehicle
+    public class Tesla : ElectricVehicle
     {
-        public double BatteryKWh { get; set; }
+
 
         public void ChargeBattery()
         {
             // method definition omitted
+        }
+        public override void Drive()
+        {
+            //base.Drive();
+            Console.WriteLine($"I drive a {MainColor} {Make}{Model} with an occupancy of {MaximumOccupancy}");
         }
     }
 }
