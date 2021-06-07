@@ -2,15 +2,16 @@ using System;
 
 namespace Garage
 {
-    public class Zero  // Electric motorcycle
+    public class Zero : ElectricVehicle // Electric motorcycle
     {
-        public double BatteryKWh { get; set; }
-        public string MainColor { get; set; }
-        public int MaximumOccupancy { get; set; }
-
         public void ChargeBattery()
         {
             // method definition omitted
+        }
+        public override void Drive()
+        {
+            //base.Drive();
+            Console.WriteLine($"I drive a {MainColor} {Make} {Model} with an occupancy of {MaximumOccupancy}");
         }
     }
 }
