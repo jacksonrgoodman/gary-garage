@@ -1,4 +1,4 @@
-[![C#](https://img.shields.io/badge/C_SHARP-CC2927?style=for-the-badge&logo=c-sharp&logoColor=white)](#)
+[![C#](https://img.shields.io/badge/C%23-darkgreen?style=for-the-badge&logo=c-sharp&logoColor=white)](#)
 # Gary Garage
 A  _Project_ for [NSS Cohort-47](https://nashvillesoftwareschool.com/)  
 ## Installation
